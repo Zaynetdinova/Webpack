@@ -1,17 +1,17 @@
 let path = require('path')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+const HtmlWebpackPlugin = require('html-webpack-plugin')
 
 let conf = {
     entry: './src/js/index.js',
     output: {
         path: path.resolve(__dirname, './dist'),
-        filename: 'main.js',
-        publicPath: 'dist/'
+        filename: 'index.js',
+        publicPath: ''
     },
     devServer: {
         overlay: true
     },
-    plugins: [new MiniCssExtractPlugin()],
     module: {
         rules: [
             {
@@ -25,9 +25,29 @@ let conf = {
                     'css-loader',
                     'sass-loader'
                 ]
-            }
+            },
+            {
+                test: /\.(png|jpe?g|gif)$/i,
+                use: [
+                    {
+                        loader: 'file-loader',
+                        options: {
+                            name: "[name].[ext]",
+                            outputPath: "images"
+                        }
+                    },
+                ],
+            },
         ]
     },
+    plugins: [
+        new MiniCssExtractPlugin({
+        filename: 'bundle.css'
+    }),
+        new HtmlWebpackPlugin({
+            template: './src/index.html',
+            filename: 'index.html'
+        })],
 }
 
 module.exports = (env, options) => {
