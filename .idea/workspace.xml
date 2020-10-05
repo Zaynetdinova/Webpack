@@ -20,8 +20,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e29a07a-aa56-4288-8180-9e1bc9174e63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/footer/footer-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/footer/grid-footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/header/bg-white.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/header/header-bottom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/header/header-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/header/nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/main/banner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/main/bg-pink.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/main/grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/main/wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/newProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/newProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Group_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Rectangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/YouTube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/avto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/facebook-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/impuls.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/brands.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/vk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/footer/footer-category.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/footer/footer-contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/footer/footer-end.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/footer/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/footer/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/footer/footer__line.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header-mobail/burger-menu__button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header-mobail/burger-menu__nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header-mobail/header-mobail.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header-mobail/second__mobail.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/header/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header/line-two.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header/line.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header/second-line.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header/second.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/header/top-line.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/main/box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/main/boxs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/main/brands.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/main/brands.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/main/goods.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/main/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/main/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/main/sale.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/main/wrapper-block.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/vars/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/footer/footer-bottom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +118,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/c" />
       <recent name="$PROJECT_DIR$/src/scss/blocks/main" />
       <recent name="$PROJECT_DIR$/src/scss/blocks/header" />
       <recent name="$PROJECT_DIR$/src/scss/blocks/footer" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/js" />
     </key>
   </component>
   <component name="RunManager">
@@ -106,7 +159,13 @@
       <workItem from="1599237767491" duration="1123000" />
       <workItem from="1599240110904" duration="2275000" />
       <workItem from="1599386146511" duration="14000" />
-      <workItem from="1599386209428" duration="1575000" />
+      <workItem from="1599386209428" duration="2670000" />
+      <workItem from="1601279366157" duration="1244000" />
+      <workItem from="1601539101621" duration="831000" />
+      <workItem from="1601629701659" duration="18168000" />
+      <workItem from="1601706572772" duration="16197000" />
+      <workItem from="1601799020605" duration="264000" />
+      <workItem from="1601888009023" duration="20207000" />
     </task>
     <servers />
   </component>
@@ -126,10 +185,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597829298065">
+    <state x="446" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601911967507">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="446" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1597829298065" />
+    <state x="446" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1601911967507" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597159951546">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

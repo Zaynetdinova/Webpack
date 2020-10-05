@@ -1,0 +1,48 @@
+.bg-pink {
+  background-color: #F13C6E;
+  color: #FFFFFF;
+  padding: 35px 45px 35px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bg-pink h3 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.bg-pink p {
+  line-height: 1.5;
+  margin-bottom: 24px;
+}
+
+.bg-pink input {
+  font-size: 14px;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  padding: 9px 15px;
+  width: 100%;
+  max-width: 225px;
+  box-sizing: border-box;
+}
+
+.bg-pink .btn1 {
+  display: block;
+  text-align: center;
+  padding: 8px 27px;
+  max-width: 170px;
+}
+
+@media(max-width: 1000px) {
+  .bg-pink-item {
+    flex: 0 0 100%;
+  }
+  .bg-pink-item img {
+    display: none;
+  }
+}
+

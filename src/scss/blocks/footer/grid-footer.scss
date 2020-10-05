@@ -1,0 +1,38 @@
+.grid-footer {
+  padding: 60px 0 50px 0;
+}
+
+.grid-footer span {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 140.62%;
+}
+
+.grid-footer hr {
+  margin-bottom: 25px;
+  margin-top: 24px;
+}
+
+.nav-footer {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-footer a {
+  text-decoration: none;
+  color: #828282;
+  font-size: 12px;
+  line-height: 28px;
+}
+
+@media(max-width: 1000px) {
+  .grid-footer {
+    padding: 20px 0 10px 0;
+  }
+}
+
+@media(max-width: 600px) {
+  .grid-footer {
+    text-align: center;
+  }
+}

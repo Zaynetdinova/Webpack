@@ -13,11 +13,6 @@ import '../scss/main.scss'
         })
     })
 
-    let burgerMenu = document.querySelector('.burger-menu');
-    let button = document.querySelector('.burger-menu__button');
-    button.addEventListener('click',() => {
-        burgerMenu.classList.toggle('burger-menu_active')
-    })
 
 
 

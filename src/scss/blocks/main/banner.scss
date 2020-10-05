@@ -1,0 +1,53 @@
+.banner {
+  background-image: url("../img/sale.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding-top: 159px;
+  padding-bottom: 204px;
+  color: #fff;
+}
+
+.title {
+   font-size: 48px;
+   font-weight: bold;
+   margin-bottom: 39px;
+}
+
+.banner p {
+  margin-bottom: 55px;
+  line-height: 1.5;
+}
+
+.banner a {
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+.btn1 {
+  color: #fff;
+  text-decoration: none;
+  border-radius: 20px;
+  border: 2px solid #fff;
+  background-color: transparent;
+  padding: 9px 44px;
+  transition: 0.2s ease;
+}
+
+.btn1:hover {
+  background-color: #FFFFFF;
+  color: black;
+}
+
+@media(max-width: 800px) {
+  .banner {
+    background-image: none;
+    background-color: #F13C6E;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 100px;
+  }
+  .banner p {
+    margin: 0 auto 57px;
+  }
+}
