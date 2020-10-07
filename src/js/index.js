@@ -1,5 +1,6 @@
 import '../scss/main.scss'
 
+
     let element = document.querySelector('.btn');
     let hiddenContent = document.querySelectorAll('.brands-one-hidden')
     let btn = document.querySelector('.btn-brands');

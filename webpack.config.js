@@ -50,6 +50,10 @@ let conf = {
                     },
                 ],
             },
+            {
+                test: /\.pug/,
+                loaders: ['html-loader', 'pug-html-loader'],
+            }
         ]
     },
     plugins: [
@@ -57,7 +61,7 @@ let conf = {
         filename: 'bundle.css'
     }),
         new HtmlWebpackPlugin({
-            template: './src/index.html',
+            template: './src/index.pug',
             filename: 'index.html'
         })],
 }

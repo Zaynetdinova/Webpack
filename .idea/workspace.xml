@@ -20,7 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e29a07a-aa56-4288-8180-9e1bc9174e63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/includes/banner.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/includes/brands.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/includes/catalog-two.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/includes/catalog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/includes/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/includes/header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/footer/grid-footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/footer/grid-footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/blocks/main/grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/blocks/main/grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +80,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/includes" />
+      <recent name="$PROJECT_DIR$/src/includes/main" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/c" />
       <recent name="$PROJECT_DIR$/src/scss/blocks/main" />
-      <recent name="$PROJECT_DIR$/src/scss/blocks/header" />
-      <recent name="$PROJECT_DIR$/src/scss/blocks/footer" />
     </key>
   </component>
   <component name="RunManager">
@@ -111,7 +127,7 @@
       <workItem from="1601629701659" duration="18168000" />
       <workItem from="1601706572772" duration="16197000" />
       <workItem from="1601799020605" duration="264000" />
-      <workItem from="1601888009023" duration="21015000" />
+      <workItem from="1601888009023" duration="40691000" />
     </task>
     <servers />
   </component>
@@ -131,10 +147,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601911967507">
+    <state x="446" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602018248109">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="446" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1601911967507" />
+    <state x="446" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1602018248109" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597159951546">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
